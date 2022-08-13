@@ -1,4 +1,4 @@
-extends Area
+extends Spatial
 
 
 onready var _barrier: StaticBody = $Barrier
